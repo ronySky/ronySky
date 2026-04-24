@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#### Desenvolvedor de software. Atuação fullstack, com foco em back-end.
+#### Full-stack software engineer, backend-heavy. Vast experience with Java + Spring Boot projects.
 
 ---
 
